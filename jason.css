@@ -13,6 +13,10 @@ p1 {
   font-size: 18px;
 }
 
+#about_me {
+  width:300px;
+}
+
  #group_pic {
    width: 250px;
  }
