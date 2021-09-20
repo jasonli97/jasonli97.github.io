@@ -27,9 +27,11 @@ p1 {
  #farm {
    float:right;  
    height:200px;
+  margin-left:100px;
  }
  
  #news_story{
   float:left;
   height:200px;
+  margin-right:100px;
  }
