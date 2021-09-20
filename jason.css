@@ -9,12 +9,15 @@ h1 {
 
 p1 {
   font-family:sans-serif;
-  Color:white;
+  color:white;
   font-size: 18px;
 }
 
 #about_me {
   width:300px;
+  font-family:sans-serif;
+  color:white;
+  font-size: 18px;
 }
 
  #group_pic {
