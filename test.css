@@ -1,0 +1,35 @@
+body {
+ background-image: url("background_image.jpg");
+}  
+
+h1 {
+ font-family:sans-serif; 
+ color:white;
+}
+
+p1 {
+  font-family:sans-serif;
+  color:white;
+  font-size: 18px;
+}
+
+#about_me {
+  font-family:sans-serif;
+  color:white;
+  font-size: 18px;
+  width:40%;
+}
+
+ #group_pic {
+   width: 500px;
+ }
+
+ #farm {
+   float:right;  
+   width:300px;
+ }
+ 
+ #news_story{
+  float:right;
+  width:300px;
+ }
