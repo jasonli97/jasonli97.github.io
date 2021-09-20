@@ -24,22 +24,15 @@ p1 {
    width: 500px;
  }
  
- #verge_logo {
-  float: left;
-  width: 150px;
-  margin-left:50px;
- }
  
  #farm {
   float:right;
-  width:150px;
-  margin-right:50px;
+  width:300px;
  }
  
  #news_story{
   float:right;
-  width:100px;
-  margin-right:50px;
+  width:300px;
  }
   
  
