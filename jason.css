@@ -12,3 +12,24 @@ p1 {
   Color:white;
   font-size: 18px;
  ]
+
+ #group_pic {
+   height: 200px;
+ }
+ 
+ #verge_logo {
+  float:left;
+  height:100px;
+ }
+ 
+ #farm {
+  float:right;
+  heigh:100px;
+ }
+ 
+ #news_story{
+  float:right;
+  height:100px;
+ }
+  
+ 
