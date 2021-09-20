@@ -17,7 +17,7 @@ p1 {
   font-family:sans-serif;
   color:white;
   font-size: 18px;
-  width:50%;
+  width:40%;
 }
 
  #group_pic {
@@ -27,16 +27,19 @@ p1 {
  #verge_logo {
   float: left;
   width: 150px;
+  margin-left:50px;
  }
  
  #farm {
   float:right;
   width:150px;
+  margin-right:50px;
  }
  
  #news_story{
   float:right;
   width:100px;
+  margin-right:50px;
  }
   
  
