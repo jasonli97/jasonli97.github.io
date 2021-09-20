@@ -14,22 +14,22 @@ p1 {
  ]
 
  #group_pic {
-   height: 200px;
+   width: 250px;
  }
  
  #verge_logo {
   float:left;
-  height:100px;
+  width:100px;
  }
  
  #farm {
   float:right;
-  height:150px;
+  width:150px;
  }
  
  #news_story{
   float:right;
-  height:100px;
+  width:100px;
  }
   
  
