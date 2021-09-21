@@ -7,10 +7,9 @@ h1 {
  color:white;
 }
 
-p1 {
-  font-family:sans-serif;
-  color:white;
-  font-size: 18px;
+p { 
+    color: white;
+    font-size: 18px;
 }
 
 #about_me {
