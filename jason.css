@@ -36,3 +36,10 @@ p1 {
  #news_story{
   width:300px;
  }
+
+#final_project {
+  font-family:sans-serif;
+  color:white;
+  font-size: 18px;
+  width:40%;
+}
